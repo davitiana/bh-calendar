@@ -12,7 +12,7 @@ from googleapiclient.discovery import build
 SCOPES = ["https://www.googleapis.com/auth/calendar.events"]
 CREDENTIALS_FILE = "credentials.json"
 TOKEN_FILE = "token.json"
-CALENDAR_FILE = "november_calendar.json"
+CALENDAR_FILE = "june_calendar.json"
 
 CALENDAR_ID = "primary"  # use "primary" for your main calendar
 
